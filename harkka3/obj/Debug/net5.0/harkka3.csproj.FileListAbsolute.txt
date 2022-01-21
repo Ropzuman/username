@@ -1,0 +1,15 @@
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/obj/Debug/net5.0/harkka3.csproj.AssemblyReference.cache
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/obj/Debug/net5.0/harkka3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/obj/Debug/net5.0/harkka3.AssemblyInfoInputs.cache
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/obj/Debug/net5.0/harkka3.AssemblyInfo.cs
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/obj/Debug/net5.0/harkka3.csproj.CoreCompileInputs.cache
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/bin/Debug/net5.0/harkka3.deps.json
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/bin/Debug/net5.0/harkka3.runtimeconfig.json
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/bin/Debug/net5.0/harkka3.runtimeconfig.dev.json
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/bin/Debug/net5.0/harkka3.dll
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/bin/Debug/net5.0/ref/harkka3.dll
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/bin/Debug/net5.0/harkka3.pdb
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/obj/Debug/net5.0/harkka3.dll
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/obj/Debug/net5.0/ref/harkka3.dll
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/obj/Debug/net5.0/harkka3.pdb
+/Users/Roope/Programming/Ohjelmointi-2/harkka3/obj/Debug/net5.0/harkka3.genruntimeconfig.cache
